@@ -1,5 +1,7 @@
 # Bogdan Golishchev
 
+![Bogdan-Golishchev-Photo](https://avatars.githubusercontent.com/u/42029551?v=4 "Bogdan-Golishchev-Photo")
+
 ## BIO
 
 26 y.o.
@@ -9,6 +11,9 @@ Front-end Developer / Social Solutions
 
 
 ### Contact Info
+
+**Discord:** [BG @BogdanGolishchev](https://discordapp.com/users/1015921841145131052)
+
 
 **LinkedIn:** [linkedin.com/in/bgolishchev](https://linkedin.com/in/bgolishchev)
 
