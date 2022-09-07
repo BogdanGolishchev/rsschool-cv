@@ -1,15 +1,26 @@
+# Bogdan Golishchev
+
 ## BIO
 
 26 y.o.
-Bogdan Golishchev
+
+
 Front-end Developer / Social Solutions
+
 
 ### Contact Info
 
-LinkIn          linkedin.com/in/bgolishchev
-Phone           +375255148541
-Location        Minsk
-Email           bgolishchev@gmail.com
+**LinkedIn:** [linkedin.com/in/bgolishchev](https://linkedin.com/in/bgolishchev)
+
+
+**Phone:** [+375255148541](tel:+375255148541)
+
+
+**Location:** Minsk
+
+
+**Email:** [bgolishchev@gmail.com](mailto:bgolishchev@gmail.com)
+
 
 ## About
 
@@ -21,10 +32,10 @@ Interested in working on socially oriented software.
 
 ## Education
 
-Belarusian State University of Informatics and Radioelectronics
+### Belarusian State University of Informatics and Radioelectronics
 Master of technical sciences (Master's degree)
 2017 - 2018
 
-Belarusian State University of Informatics and Radioelectronics
+### Belarusian State University of Informatics and Radioelectronics
 Bachelor's in Computer Science & Engineering (Information Security)
 2012 - 2017
