@@ -34,8 +34,8 @@ Interested in working on socially oriented software.
 
 ### Belarusian State University of Informatics and Radioelectronics
 Master of technical sciences (Master's degree)
-2017 - 2018
+**2017 - 2018**
 
 ### Belarusian State University of Informatics and Radioelectronics
 Bachelor's in Computer Science & Engineering (Information Security)
-2012 - 2017
+**2012 - 2017**
